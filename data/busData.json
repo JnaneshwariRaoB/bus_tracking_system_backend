@@ -1,0 +1,13 @@
+[
+    {
+      "busId": "1",
+      "route": "Mangalore Central to Manipal",
+      "location": "Mangalore City Center"
+    },
+    {
+      "busId": "2",
+      "route": "Mangalore Central to Udupi",
+      "location": "Surathkal Junction"
+    }
+  ]
+  

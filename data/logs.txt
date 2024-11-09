@@ -1,0 +1,5 @@
+2024-11-09T04:41:16.314Z - Error fetching location for bus :id
+2024-11-09T04:51:41.112Z - Error fetching location for bus 1
+2024-11-09T04:54:21.064Z - Error fetching location for bus 1
+2024-11-09T05:06:03.696Z - Fetched location for bus 1: Mangalore City Center
+2024-11-09T05:06:58.209Z - Fetched location for bus 2: Surathkal Junction

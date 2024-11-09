@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.21.1",
+    "fs-extra": "^11.1.0",
+    "install": "^0.13.0"
+  },
+  "name": "bus_tracking_system_backend",
+  "version": "1.0.0",
+  "description": "A backend system for real-time bus tracking in Mangalore",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
